@@ -1,20 +1,6 @@
 [
   {
     "item": {
-      "value": "Q333533",
-      "label": "Jeremy Hunt"
-    },
-    "statement": "Q333533$6EACDBE5-62B3-4720-9065-2BB2A91F4F4C"
-  },
-  {
-    "item": {
-      "value": "Q302363",
-      "label": "Michael Dugher"
-    },
-    "statement": "Q302363$897F06F0-7349-4518-84FB-95502C077ADA"
-  },
-  {
-    "item": {
       "value": "Q4980126",
       "label": "Bryan Gould"
     },
@@ -123,6 +109,29 @@
       "precision": "11"
     },
     "statement": "Q336214$91A15A65-EF58-4639-B93C-738DE6929795"
+  },
+  {
+    "item": {
+      "value": "Q332696",
+      "label": "Virginia Bottomley"
+    },
+    "replaces": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "replacedBy": {
+      "value": "Q333986",
+      "label": "Francis Maude"
+    },
+    "start": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332696$0A486F93-2669-46CD-BDC4-FB0B3770E0FB"
   },
   {
     "item": {
@@ -310,6 +319,29 @@
   },
   {
     "item": {
+      "value": "Q333533",
+      "label": "Jeremy Hunt"
+    },
+    "replaces": {
+      "value": "Q327716",
+      "label": "Hugo Swire"
+    },
+    "replacedBy": {
+      "value": "Q264618",
+      "label": "Ben Bradshaw"
+    },
+    "start": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333533$6EACDBE5-62B3-4720-9065-2BB2A91F4F4C"
+  },
+  {
+    "item": {
       "value": "Q264618",
       "label": "Ben Bradshaw"
     },
@@ -402,6 +434,29 @@
   },
   {
     "item": {
+      "value": "Q302363",
+      "label": "Michael Dugher"
+    },
+    "replaces": {
+      "value": "Q266146",
+      "label": "Chris Bryant"
+    },
+    "replacedBy": {
+      "value": "Q302815",
+      "label": "Maria Eagle"
+    },
+    "start": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-01-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302363$897F06F0-7349-4518-84FB-95502C077ADA"
+  },
+  {
+    "item": {
       "value": "Q302815",
       "label": "Maria Eagle"
     },
@@ -455,10 +510,79 @@
       "value": "Q689421",
       "label": "Kelvin Hopkins"
     },
+    "replacedBy": {
+      "value": "Q263802",
+      "label": "Tom Watson"
+    },
     "start": {
       "value": "2016-10-07T00:00:00Z",
       "precision": "11"
     },
+    "end": {
+      "value": "2017-07-03T00:00:00Z",
+      "precision": "11"
+    },
     "statement": "Q263802$4C2DFE1E-8B04-4453-BFB1-56FA41BF2591"
+  },
+  {
+    "item": {
+      "value": "Q263802",
+      "label": "Tom Watson"
+    },
+    "replaces": {
+      "value": "Q263802",
+      "label": "Tom Watson"
+    },
+    "replacedBy": {
+      "value": "Q7831699",
+      "label": "Tracy Brabin"
+    },
+    "start": {
+      "value": "2017-07-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2019-12-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q263802$AF116C5F-77E5-4B1D-8E36-9C798A0B34FB"
+  },
+  {
+    "item": {
+      "value": "Q7831699",
+      "label": "Tracy Brabin"
+    },
+    "replaces": {
+      "value": "Q263802",
+      "label": "Tom Watson"
+    },
+    "replacedBy": {
+      "value": "Q20128115",
+      "label": "Jo Stevens"
+    },
+    "start": {
+      "value": "2020-01-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7831699$6A6EDB60-35DF-44D7-98AB-6854E9B08580"
+  },
+  {
+    "item": {
+      "value": "Q20128115",
+      "label": "Jo Stevens"
+    },
+    "replaces": {
+      "value": "Q7831699",
+      "label": "Tracy Brabin"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q20128115$857177D3-1379-486B-A5D1-8E3C43FB26F3"
   }
 ]
