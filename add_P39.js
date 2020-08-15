@@ -16,11 +16,11 @@ module.exports = (id, startdate, enddate, replaces, replacedby, ordinal, cabinet
     id,
     claims: {
       P39: {
-        value: 'Q11013932',
+        value: 'Q7460591',
         qualifiers: qualifiers,
         references: {
           P143: 'Q328', // English Wikipedia
-          P4656: 'https://en.wikipedia.org/wiki/Shadow_Chancellor_of_the_Exchequer'
+          P4656: 'https://en.wikipedia.org/wiki/Shadow_Secretary_of_State_for_Digital,_Culture,_Media_and_Sport'
         },
       }
     }
